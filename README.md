@@ -1,1 +1,1 @@
-# padrao-Singleton
+# Padrão Singleton
