@@ -15,3 +15,6 @@ Complete a classe Singleton no seu editor com os seguintes componentes:
 - Não será necessário produzir nenhuma saída diretamente.
 
 ### Exemplo de Entrada e Saída:
+
+- Entrada: hello world
+- Saída: Hello I am a singleton! Let me say hello world to you
