@@ -6,3 +6,4 @@ O padrão Singleton é um padrão de design que restringe a instância de uma cl
 Complete a classe Singleton no seu editor com os seguintes componentes:
 
 1. Um construtor privado sem parâmetros da classe Singleton.
+2. Uma variável de instância pública do tipo String, chamada str.
