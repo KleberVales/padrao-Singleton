@@ -10,3 +10,6 @@ Complete a classe Singleton no seu editor com os seguintes componentes:
 3. Um método estático chamado getSingleInstance que retorna a única instância da classe Singleton.
 
 ### Regras:
+
+- Você não precisará lidar com entrada neste desafio.
+- Não será necessário produzir nenhuma saída diretamente.
