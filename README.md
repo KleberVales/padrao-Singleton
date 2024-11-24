@@ -13,3 +13,5 @@ Complete a classe Singleton no seu editor com os seguintes componentes:
 
 - Você não precisará lidar com entrada neste desafio.
 - Não será necessário produzir nenhuma saída diretamente.
+
+### Exemplo de Entrada e Saída:
